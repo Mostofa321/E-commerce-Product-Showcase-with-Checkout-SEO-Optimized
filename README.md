@@ -8,8 +8,8 @@ Implements **SEO best practices**, **responsive design**, and **local state pers
 ## 📖 Setup Guide
 
 1. Clone the repository  
-   git clone https://github.com/your-username/ecommerce-seo.git  
-   cd ecommerce-seo
+   git clone https://github.com/Mostofa321/E-commerce-Product-Showcase-with-Checkout-SEO-Optimized.git  
+   cd E-commerce-Product-Showcase-with-Checkout-SEO-Optimized
 
 2. Install dependencies  
    npm install
