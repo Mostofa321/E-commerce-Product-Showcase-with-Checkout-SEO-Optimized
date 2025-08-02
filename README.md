@@ -52,8 +52,8 @@ This project demonstrates **SEO best practices**, **state management with Redux*
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-seo.git
-   cd ecommerce-seo
+   git clone https://github.com/Mostofa321/E-commerce-Product-Showcase-with-Checkout-SEO-Optimized.git
+   cd E-commerce-Product-Showcase-with-Checkout-SEO-Optimized
 Install dependencies
 
 bash
